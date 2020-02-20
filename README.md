@@ -1,2 +1,2 @@
 # K-means_Spark_fr
-Projet de travaux pratiques en Spark (Implémentation sur le Cluster de Dauphine)
+Master's Practical work project on Spark (Implementation on the Dauphine Private Cluster)
